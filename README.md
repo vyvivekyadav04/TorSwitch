@@ -8,6 +8,10 @@ For any updates in Tor's bootstrap process, this script prints them on the scree
 
 Here's how to use this script:
 
+## Why another script to switch tor ?
+It wasn't easy to find a script which works for Mac. This one Does... :)
+Though, I don't love Mac/Apple a lot , but anyways...
+
 ## Pre-requisite
 The script requires you to have Python and stem library installed.
 If not, start by installing the prerequisite. 
