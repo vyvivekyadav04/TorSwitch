@@ -26,6 +26,9 @@ pip install stem
 1. Clone the repo.
 2. Open the file in a text editor and go through the comments to understand and configure it according to your preferences. 
 
+##Note
+To route your traffic through this proxy, go to System Preferences -> Network -> Advanced -> Proxies. Check the "SOCKS Proxy" box and enter `127.0.0.1` as the SOCKS Proxy Server and `7000` as the port.
+
 ## Usage 
 
 1. You can choose to run the script from command line:
