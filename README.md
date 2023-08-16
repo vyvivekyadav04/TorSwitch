@@ -76,6 +76,6 @@ Code is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Contact 
 
-Your Name: Vivek Yadav 
+Author: Vivek Yadav   
 E-Mail: vyvivekyadav04@gmail.com
 
